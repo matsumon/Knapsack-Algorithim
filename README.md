@@ -1,4 +1,4 @@
-#Knapsack-Algorithim
+# Knapsack-Algorithim
 
 CS 325 Summer 2020
 
